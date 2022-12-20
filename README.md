@@ -16,7 +16,7 @@ If you are still having problems please contact any concern person.
 
 You can use third party libraries, but the more code you write yourself, the better.
 
-You have minimal time to submit your code, however we want to be respectful of your time and do **not** expect you to work for more than **4 hours** on this challenge.
+You have minimal time to submit your code, however we want to be respectful of your time and do **not** expect you to work for more than **2 hours** on this challenge.
 
 When you are finished please submit a .zip file with your entire project (node_modules included) to info.codezee@gmail.com (or a link to your expo snack project).
 
