@@ -23,7 +23,7 @@ When you are finished please submit a .zip file with your entire project (node_m
 ## 3. Basic Requirements
 
  * Your app should have a text input that allows a user to enter an address in the format `"{street address}, {zip code}"`
- * Your app should fetch data on restaurants that deliver to that address, using the delivery.com API (see more below)
+ * Your app should fetch data on restaurants that deliver to that address, using the codezee-transport API (see more below)
  * Your app should display these restaurants as a list, you can include whatever information about each restaurant you would like
  * Your app should run on iOS or Android
 
